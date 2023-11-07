@@ -3,11 +3,11 @@ repository: igorpri3to/igorpri3to.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: Igor Prieto
-title: Senior Web Developer
+title: Senior Backend Dev/Data Scientist 
 email: dev@igorprieto.com 
 website: web.igorprieto.com
 
@@ -15,17 +15,17 @@ website: web.igorprieto.com
 darkmode: true
 
 # Social links
-twitter_username: igorpri3to
+#twitter_username: igorpri3to
 github_username:  igorpri3to
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: igorpri3to
+instagram_username: igorprietoechepare
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: igorpri3to
+youtube_username: igorprieto
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: https://yt3.googleusercontent.com/A_j437rQLje_Tp_9lCNrXtddSSIoB0Wu5wXuw-RXrNmLDzMmGkpmrLThdSNJiuWcZsnjbgA8=s176-c-k-c0x00ffffff-no-rj
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Igor and I'm a senior web developer. As well as web development I also have experience managing servers and deploying sites. I have worked at a number of companies gaining teamwork and leadership skills.
 
