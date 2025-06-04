@@ -1,0 +1,18 @@
+# Jekyll build output
+_site/
+
+# Bundler dependencies
+.bundle/
+vendor/
+
+# Gemfile lock
+Gemfile.lock
+
+# Mac system files
+.DS_Store
+
+# Swap files
+*.swp
+
+# Logs
+*.log
