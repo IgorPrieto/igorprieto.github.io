@@ -4,6 +4,7 @@ favicon: images/favicon.ico
 
 # Content configuration version
 version: 3
+lang: es
 
 # Personal info
 name: Igor Prieto
